@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="image">
+    <file>img/buttom/任天堂游戏_switch-nintendo.svg</file>
+    <file>img/buttom/消息_message-one.svg</file>
+    <file>img/buttom/仪表盘_dashboard.svg</file>
+    <file>img/buttom/心电图_electrocardiogram.svg</file>
+    <file>img/img/image.png</file>
+  </qresource>
+</RCC>
